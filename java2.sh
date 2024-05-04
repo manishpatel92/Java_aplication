@@ -19,3 +19,4 @@ cd /mnt/apache-tomcat-8.5.100/
 cd bin/
 ./startup.sh
 
+#http://3.95.64.105:8080/LoginWebApp/
