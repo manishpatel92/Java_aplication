@@ -2,6 +2,9 @@ sudo yum update -y
 #sudo amazon-linux-extras enable corretto8
 #sudo yum install java-1.8.0-amazon-corretto-devel
 #sudo yum install git -y
+sudo yum update -y
+sudo yum install java-17-amazon-corretto -y
+java -version
 sudo yum install stress-ng -y
 sudo yum install maven -y
 cd /mnt/
