@@ -1,4 +1,4 @@
-sudo yum update -y
+#sudo yum update -y
 #sudo amazon-linux-extras enable corretto8
 #sudo yum install java-1.8.0-amazon-corretto-devel
 #sudo yum install git -y
