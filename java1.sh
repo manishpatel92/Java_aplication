@@ -6,6 +6,7 @@ sudo yum update -y
 sudo yum install java-17-amazon-corretto -y
 java -version
 sudo yum install stress-ng -y
+sudo yum install unzip -y
 sudo yum install maven -y
 cd /mnt/
 sudo wget https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
